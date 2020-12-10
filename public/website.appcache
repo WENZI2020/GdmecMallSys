@@ -1,0 +1,18 @@
+CACHE MANIFEST
+# 2020-12-09 v1.0.0
+
+CACHE:
+/favicon.ico
+/img/welcome.png
+/css/font-awesome.css
+/css/popper.css
+/css/bootstrap.css
+/ui/jquery.js
+/ui/popper.js
+/ui/bootstrap.js
+/ui/html5shiv.js
+/ui/respond.js
+/storage/privacys.txt
+
+NETWORK:
+*

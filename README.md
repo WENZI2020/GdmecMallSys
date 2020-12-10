@@ -1,3 +1,8 @@
+#GdmecMallSys
+
+[![Fork me on Gitee](https://gitee.com/WENZI2020/GdmecMall/widgets/widget_3.svg)](https://gitee.com/WENZI2020/GdmecMall)<br/>
+机电网购平台（系统）![](https://img.shields.io/badge/曾昭文-个人项目-red.svg)<br/>
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">

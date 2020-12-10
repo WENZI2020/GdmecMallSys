@@ -1,4 +1,4 @@
-#GdmecMallSys
+# GdmecMallSys
 
 [![Fork me on Gitee](https://gitee.com/WENZI2020/GdmecMall/widgets/widget_3.svg)](https://gitee.com/WENZI2020/GdmecMall)<br/>
 机电网购平台（系统）![](https://img.shields.io/badge/曾昭文-个人项目-red.svg)<br/>

@@ -19,6 +19,9 @@
 > 利用 Bootstrap 构建快速、响应式的网站，具体情况：
 - Bootstrap 是全球最受欢迎的前端开源工具库，它支持 Sass 变量和 mixin、响应式栅格系统、自带大量组件和众多强大的 JavaScript 插件
 - 基于 Bootstrap 提供的强大功能，能够让你快速设计并自定义你的网站
+> _font awesome_
+> webfont，是一款基于css框架的网页字体图标库：
+- Font Awesome 字体为您提供可缩放矢量图标,它可以被定制大小、颜色、阴影以及任何可以用CSS的样式。
 > _laravel_  
 > 为 WEB 艺术家创造的 PHP 框架（渐进式框架 可扩展框架 社区框架）：
 - Laravel是一套web应用开发框架，它具有富于表达性且简洁的语法。我们相信，开发过程应该是愉悦、创造性的体验。Laravel努力剔除开发过程中的痛苦，因此我们提供了验证（authentication）、路由（routing）、session和缓存（caching）等开发过程中经常用到的工具或功能。

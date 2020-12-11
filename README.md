@@ -250,7 +250,7 @@
 |  ├─Console `命令行`
 |  |     └Kernel.php `内核`
 ├─vendor `依赖工具库`
-|  ├─autoload.php 自动加载
+|  ├─autoload.php `自动加载`
 |  ├─bin └...
 |  └...
 

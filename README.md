@@ -78,8 +78,32 @@
 |     ├─views `视图模板`
 |     |   ├─vendor `依赖工具库`
 |     |    | ├─mail `邮件`
-|     |    |  |   ├─html `HTML(文本)` └...
-|     |    |  |   ├─text `Text(文本)` └...
+|     |    |  |   ├─html `HTML(文本)`
+||||  |  ├─button.blade.php
+||||  |  ├─footer.blade.php
+||||  |  ├─header.blade.php
+||||  |  ├─layout.blade.php
+||||  |  ├─message.blade.php
+||||  |  ├─panel.blade.php
+||||  |  ├─promotion.blade.php
+||||  |  ├─subcopy.blade.php
+||||  |  ├─table.blade.php
+||||  |  ├─themes
+||||  |  |   └default.css
+||||  |  ├─promotion
+||||  |  |     └button.blade.php
+|     |    |  |   ├─text `Text(文本)`
+||||  |  ├─button.blade.php
+||||  |  ├─footer.blade.php
+||||  |  ├─header.blade.php
+||||  |  ├─layout.blade.php
+||||  |  ├─message.blade.php
+||||  |  ├─panel.blade.php
+||||  |  ├─promotion.blade.php
+||||  |  ├─subcopy.blade.php
+||||  |  ├─table.blade.php
+||||  |  ├─promotion
+||||  |  |     └button.blade.php
 |     |   ├─account.blade.php `我的`
 |     |   ├─basic.blade.php `父页`
 |     |   ├─category.blade.php `分类`

@@ -76,6 +76,10 @@
 |   └web.php `页面`
 ├─resources `资产`
 |     ├─views `视图模板`
+|     |   ├─vendor `依赖工具库`
+|     |    | ├─mail `邮件`
+|     |    |  |   ├─html `HTML(文本)` └...
+|     |    |  |   ├─text `Text(文本)` └...
 |     |   ├─account.blade.php `我的`
 |     |   ├─basic.blade.php `父页`
 |     |   ├─category.blade.php `分类`

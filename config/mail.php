@@ -57,7 +57,7 @@ return [
 
     'from' => [
         'address' => env('MAIL_FROM_ADDRESS', 'wenzi2020@yeah.net'),
-        'name' => env('MAIL_FROM_NAME', '机电网购平台(系统)'),
+        'name' => env('MAIL_FROM_NAME', '积点小曾'),
     ],
 
     /*

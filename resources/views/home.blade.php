@@ -151,11 +151,11 @@
 	<div class="h-50"><i class="fa fa-4x fa-clock-o"></i><br/>时钟</div>
 	<div class="h-50"><i class="fa fa-4x fa-calendar"></i><br/>日历</div>
 	<div class="h-50"><i class="fa fa-4x fa-calculator"></i><br/>计算器</div>
-	<div class="h-50"><i class="fa fa-4x fa-certificate"></i><br/>其他</div>
-	<div class="h-50"><i class="fa fa-4x fa-certificate"></i><br/>其他</div>
-	<div class="h-50"><i class="fa fa-4x fa-sun-o"></i><br/>天气预报</div>
 	<div class="h-50"><i class="fa fa-4x fa-map-signs"></i><br/>导航</div>
 	<div class="h-50"><i class="fa fa-4x fa-pie-chart"></i><br/>地图</div>
+    <div class="h-50"><i class="fa fa-4x fa-sun-o"></i><br/>天气预报</div>
+    <div class="h-50"><i class="fa fa-4x fa-certificate"></i><br/>其他</div>
+	<div class="h-50"><i class="fa fa-4x fa-certificate"></i><br/>其他</div>
 	<div class="h-50"><i class="fa fa-4x fa-certificate"></i><br/>其他</div>
 	<div class="h-50"><i class="fa fa-4x fa-certificate"></i><br/>其他</div>
 </div>
